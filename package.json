@@ -1,6 +1,9 @@
 {
   "private": true,
   "devDependencies": {
-    "@percy/cli": "^1.32.12"
+    "@percy/cli": "^1.33.1"
+  },
+  "overrides": {
+    "basic-ftp": "^6.2.6"
   }
 }
